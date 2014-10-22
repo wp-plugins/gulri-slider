@@ -12,7 +12,15 @@ An easy way to shape your gallery into an elegant slider.
 
 
 ==Screenshots ==
-
+1. How to create a gallery in WordPress?
+2. How to add items in gallery and insert them into a post/page?
+3.How to change the order of gallery images?
+4. How gallery images shortcode look like?
+5. How to convert a gallery into a gulri slider?
+6. How a gulri slider shortcode look like?
+7. What's new in Gulri Slider Pro?
+8. How the unique ID of a slider should look like?
+9. Gulri Slider in Action!
 
 ==Description ==
 * Author: [Fahad Mahmood](http://www.androidbubbles.com/contact)
