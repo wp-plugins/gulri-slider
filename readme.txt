@@ -27,6 +27,8 @@ An easy way to shape your gallery into an elegant slider.
 
 * Project URI: <http://www.websitedesignwebsitedevelopment.com/gsp>
 
+* Demo URI: <http://www.androidbubbles.com/sandbox/Gulri-Slider-Pro>
+
 * License: GPL 3. See License below for copyright jots and tittles.
 
 Attach files during checkout process on cart page with ease.
