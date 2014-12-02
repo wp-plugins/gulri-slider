@@ -1,6 +1,6 @@
 ﻿=== Gulri Slider ===
 
-Contributors: Fahad Mahmood
+Contributors: fahadmahmood
 Tags: easy, responsive, elegant, slider, gallery, easing
 
 Requires at least: 3.9
