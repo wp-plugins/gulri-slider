@@ -76,10 +76,10 @@
 	}	
 	
 	function gsp_plugin_links($links) { 
-		global $premium_link;
+		global $gs_premium_link;
 		
-		$premium_link = '<a href="'.$premium_link.'" title="Go Premium" target=_blank>Go Premium</a>'; 
-		array_unshift($links, $premium_link); 
+		$gs_premium_link = '<a href="'.$gs_premium_link.'" title="Go Premium" target=_blank>Go Premium</a>'; 
+		array_unshift($links, $gs_premium_link); 
 		return $links; 
 	}	
 	

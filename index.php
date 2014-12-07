@@ -14,8 +14,8 @@
 	require_once(ABSPATH . 'wp-admin/includes/upgrade.php');
  
     include('functions.php');
-	global $premium_link;
-	$premium_link = 'http://shop.androidbubbles.com/product/gulri-slider-pro';
+	global $gs_premium_link;
+	$gs_premium_link = 'http://shop.androidbubbles.com/product/gulri-slider-pro';
 	
 	add_action( 'admin_enqueue_scripts', 'register_gsp_scripts' );
 	add_action( 'wp_enqueue_scripts', 'register_gsp_scripts' );
